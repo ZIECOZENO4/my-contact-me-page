@@ -1,0 +1,21 @@
+html {
+    background-color:green;
+    background-image: -webkit-linear-gradient(65deg, rgb(34, 34, 161) 70%, green 30%);
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+    height: 80vh;
+    width:100%;
+  }
+  
+  p {
+    margin: 0;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #d0d7e0;
+  }
+  body{
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+  }
